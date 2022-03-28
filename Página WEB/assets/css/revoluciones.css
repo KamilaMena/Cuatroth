@@ -1,0 +1,63 @@
+.help {
+    margin: 0 350px 10px 350px;
+    background-color: #fff;
+}
+
+#Historia{
+    font-size: 35px;
+}
+ 
+.intro {
+    text-align: center;
+ }
+ 
+.subtitulo {
+    font-size: 35px;
+    text-align: center;
+}
+ 
+#Historia_DIV{
+    height: 4px;
+    width: 310px;
+    background-color: #70B4C2;
+    margin-top: 10px;
+    margin-bottom: 1em;
+    margin-left: 18em;
+}
+ 
+.parrafo__inicio {
+    line-height: 1.8;
+    margin-bottom: 2.5em;
+    text-align: justify;
+    font-size: 17px;
+}
+ 
+.imagen_revoluciones{
+    width: 60%;
+    margin: 20px 20px;
+}
+
+.titulos_revoluciones{
+    font-size: 23px;
+
+}
+
+ #titulo_1{
+    margin-top: 40px;
+}
+ 
+#titulo_2{
+    margin-top: -120px;
+}
+ 
+#titulo_3{
+    margin-top: -120px;
+}
+
+#titulo_4{
+    margin-top: -115px;
+}
+
+#sliderayuda{
+    margin-bottom: -50px;
+}

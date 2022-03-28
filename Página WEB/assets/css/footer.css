@@ -1,0 +1,39 @@
+.final {
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+
+footer {
+    padding: 3em;
+    background: rgb(23,86,122), url(http://imgfz.com/i/P2NOcYw.jpeg);
+    background: linear-gradient(0deg, rgba(22, 85, 121, 0.555) 9%, rgba(97, 165, 194, 0.616) 100%), url(http://imgfz.com/i/P2NOcYw.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+}
+
+.boton_personalizado{
+    display: grid;
+    text-decoration: none;
+    width: 18%;
+    margin-left: 32em;
+    padding: 10px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 19px;
+    color: #ffffff;
+    background-color: #70B4C2;
+    border-radius: 6px;
+    border: 2px solid #70B4C2;
+}
+
+.boton_personalizado:hover{
+    color: #57bfd4;
+    background-color: #ffffff;
+    transition: all 0.6s ease;
+}

@@ -1,0 +1,53 @@
+@import "./slider.css";
+@import "./navbar.css";
+@import "./inicio.css";
+@import "./tecnologias.css";
+@import "./revoluciones.css";
+@import "./covid.css";
+@import "./beneficios.css";
+@import "./videos.css";
+@import "./footer.css";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+  
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+.divider {
+    height: 4px;
+    width: 85px;
+    background-color: #70B4C2;
+    margin-top: -30px;
+    margin-bottom: -1em;
+}
+
+.divider__title {
+    height: 4px;
+    width: 150px;
+    background-color: #9ecef0;
+    margin-top: 10px;
+    margin-bottom: 1em;
+    margin-left: 10.7em;
+}
+
+#Covid{
+    padding-top: 60px;
+    font-size: 35px;
+}
+
+.seccion__2{
+    background: rgb(23,86,122), url(http://imgfz.com/i/P2NOcYw.jpeg);
+    background: linear-gradient(0deg, rgba(22, 85, 121, 0.555) 9%, rgba(97, 165, 194, 0.616) 100%), url(http://imgfz.com/i/P2NOcYw.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.help2{
+    margin: 0 300px 10px 300px;
+}

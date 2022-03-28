@@ -1,0 +1,25 @@
+#Beneficios {
+    padding-top: 60px;
+    color:#fff;
+    font-size: 40px;
+}
+
+#Beneficios_DIV {
+    height: 4px;
+    width: 191px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 1.9em;
+    margin-left: 43.5em;
+}
+
+.margenes{
+    margin: 0 350px 10px 350px;
+}
+
+.margenes{
+    line-height: 1.2;
+    text-align: justify;
+    font-size: 17px;
+    color: #fff;
+}

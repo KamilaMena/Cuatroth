@@ -1,0 +1,31 @@
+header {
+    width: 100%;
+    height: 1000px;
+    background: rgb(23,86,122), url(http://imgfz.com/i/P2NOcYw.jpeg);
+    background: linear-gradient(0deg, rgba(22, 85, 121, 0.555) 9%, rgba(97, 165, 194, 0.616) 100%), url(http://imgfz.com/i/P2NOcYw.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+nav {
+    text-align: center;
+    padding: 40px;
+    align-items: center;
+    font-size: 1.3em;
+}
+
+nav a {
+    color:#000;
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+nav a:hover {
+    color:#fff;
+    background: #70B4C2;
+    border-radius: 10px;
+    padding: 15px;
+    transition: all 0.9s ease;
+}

@@ -1,0 +1,27 @@
+header .textoprincipal {
+    display: flex;
+    height: 550px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.textoprincipal h1{
+    font-size: 60px;
+    letter-spacing: 12px;
+    color:#fff;
+}
+
+.textoprincipal h2{
+    font-size: 30px;
+    font-weight: 300;
+    color:#fff;
+}
+
+.ola {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

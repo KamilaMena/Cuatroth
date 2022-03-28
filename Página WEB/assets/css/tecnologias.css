@@ -1,0 +1,67 @@
+#Tecnologias {
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0 500px 0 500px;
+    color:#fff;
+    font-size: 35px;
+}
+
+.parrafo_revoluciones{
+    text-align: justify;
+    line-height: 1.3;
+    font-size: 17px;
+    color:#fff;
+}
+
+.tecnologias {
+    padding-top: 50px;
+    display: grid;
+    width: 90%;
+    margin: 0 auto;
+    padding-right: 3em;
+    padding-left: 3em;
+    gap: 1em;
+    overflow: hidden;
+    grid-template-columns: repeat(auto-fit, minmax(260px, auto));
+}
+
+#Tecnologias_DIV {
+    height: 4px;
+    width: 490px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 1em;
+    margin-left: 34.5em;
+}
+
+.tecnologias_icons {
+    display: grid;
+    gap: 1em;
+    justify-items: center;
+    width: 260px;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 5em;
+}
+
+.tecnologias_icon {
+    width: 150px;
+}
+
+.tecnología_nombre {
+    text-align: center;
+    color: rgb(241, 241, 241);
+}
+
+.btntec{
+    text-decoration: none;
+    color: rgb(241, 241, 241);
+    
+}
+
+.btntec:hover{
+    background-color: white;
+    color: black;
+    transition: all 0.5s ease;
+    padding: 1em;
+}

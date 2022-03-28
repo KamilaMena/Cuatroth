@@ -1,0 +1,28 @@
+.parrafo_beneficios{
+    line-height: 1.5;
+    text-align: justify;
+    font-size: 17px;
+}
+
+.imagen_covid{
+    width: 70%;
+    margin: 20px 20px;
+    padding-left: 220px;
+}
+
+ul {
+    padding-left: 4em;
+}
+
+#Covid_DIV {
+    height: 4px;
+    width: 580px;
+    background-color: #70B4C2;
+    margin-top: 15px;
+    margin-bottom: 2em;
+    margin-left: 9.6em;
+}
+
+.btncovi{
+    color: #70B4C2;
+}
